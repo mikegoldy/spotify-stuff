@@ -1,0 +1,51 @@
+,name,artist,duration,key,mode,beats,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,valence,tempo,popularity,URI
+0,The Box,Roddy Ricch,196653,10,0,4,0.104,0.896,0.586,0.0,0.79,-6.687,0.0559,0.642,116.971,92,spotify:track:0nbXyq5TXYPCO7pr3N8S4I
+1,ROXANNE,Arizona Zervas,163636,6,0,5,0.0522,0.621,0.601,0.0,0.46,-5.616,0.148,0.457,116.735,99,spotify:track:696DnlkuDOXcMAnKlTgXXK
+2,Circles,Post Malone,215280,0,1,4,0.192,0.695,0.762,0.00244,0.0863,-3.497,0.0395,0.553,120.042,98,spotify:track:21jGcNKet2qwijlDFuPiPb
+3,BOP,DaBaby,159715,11,1,4,0.189,0.769,0.787,0.0,0.129,-3.909,0.367,0.836,126.77,92,spotify:track:6Ozh9Ok6h4Oi1wUSLtBseN
+4,Falling,Trevor Daniel,159382,10,0,4,0.123,0.784,0.43,0.0,0.0887,-8.756,0.0364,0.236,127.087,97,spotify:track:4TnjEaWOeW0eKTKIEvJyCa
+5,Bandit (with YoungBoy Never Broke Again),Juice WRLD,189323,5,0,4,0.0687,0.474,0.631,0.0,0.132,-5.884,0.343,0.425,180.051,93,spotify:track:6Gg1gjgKi2AK4e0qzsR7sd
+6,Dance Monkey,Tones and I,209755,6,0,4,0.688,0.825,0.593,0.000161,0.17,-6.401,0.0988,0.54,98.078,80,spotify:track:1rgnBhdG2JDFTbYkYRZAku
+7,Futsal Shuffle 2020,Lil Uzi Vert,198913,7,0,4,0.0327,0.881,0.457,0.0,0.231,-8.191,0.156,0.296,136.97,91,spotify:track:2Ec33AVlkTTq8BHFgBTdQs
+8,everything i wanted,Billie Eilish,245426,6,0,4,0.902,0.704,0.225,0.657,0.106,-14.454,0.0994,0.243,120.006,97,spotify:track:3ZCTVFBt2Brf31RLEnCkWJ
+9,Adore You,Harry Styles,207133,8,1,4,0.0237,0.676,0.771,7e-06,0.102,-3.675,0.0483,0.569,99.048,87,spotify:track:3jjujdWJ72nww5eGnfs2E7
+10,Ballin' (with Roddy Ricch),Mustard,180435,7,1,4,0.392,0.809,0.545,0.0,0.151,-6.678,0.0735,0.244,97.008,89,spotify:track:3QzAOrNlsabgbMwlZt7TAY
+11,Suicidal,YNW Melly,222997,9,0,4,0.334,0.736,0.369,0.0,0.126,-9.682,0.0688,0.235,140.005,87,spotify:track:1iSqfoUFnQwV0QW1EfUit8
+12,Blinding Lights,The Weeknd,201573,1,1,4,0.00147,0.513,0.796,0.000209,0.0938,-4.075,0.0629,0.345,171.017,96,spotify:track:0sf12qNH5qcw8qpgymFOqD
+13,My Oh My (feat. DaBaby),Camila Cabello,170746,8,1,4,0.018,0.724,0.491,1.29e-05,0.0887,-6.024,0.0296,0.383,105.046,92,spotify:track:3yOlyBJuViE2YSGn3nVE1K
+14,Watermelon Sugar,Harry Styles,174000,0,1,4,0.122,0.548,0.816,0.0,0.335,-4.209,0.0465,0.557,95.39,86,spotify:track:6UelLqGlWMcVH1E5c4H7lY
+15,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,157560,2,1,4,0.533,0.755,0.522,0.0,0.0685,-4.368,0.0575,0.925,89.96,87,spotify:track:0RiRZpuVRbi7oqRdSMwhQY
+16,Don't Start Now,Dua Lipa,183290,11,0,4,0.0125,0.794,0.793,0.0,0.0952,-4.521,0.0842,0.677,123.941,97,spotify:track:6WrI0LAC5M1Rw2MnX2ZvEg
+17,OUT WEST (feat. Young Thug),JACKBOYS,157712,8,1,4,0.0104,0.802,0.591,0.0,0.196,-4.895,0.225,0.309,139.864,84,spotify:track:6gi6y1xwmVszDWkUqab1qw
+18,Someone You Loved,Lewis Capaldi,182161,1,1,4,0.751,0.501,0.405,0.0,0.105,-5.679,0.0319,0.446,109.891,95,spotify:track:7qEHsqek33rTcFNT9PFqLf
+19,hot girl bummer,blackbear,185093,6,0,1,0.128,0.778,0.559,0.0,0.399,-7.109,0.0776,0.678,129.989,95,spotify:track:7aiClxsDWFRQ0Kzk5KI5ku
+20,Heartless,The Weeknd,200080,10,0,4,0.00632,0.531,0.75,7.6e-05,0.117,-5.831,0.111,0.198,169.954,94,spotify:track:57vxBYXtHMk6H1aD29V7PU
+21,Memories,Maroon 5,189486,11,1,4,0.837,0.764,0.32,0.0,0.0822,-7.209,0.0546,0.575,91.019,98,spotify:track:2b8fOow8UzyDFAE27YhOZM
+22,No Idea,Don Toliver,153750,6,0,4,0.558,0.656,0.614,0.000862,0.215,-4.973,0.102,0.35,128.038,90,spotify:track:3VyjsVV24RmBIbWJAeUJNu
+23,HIGHEST IN THE ROOM,Travis Scott,175721,7,0,4,0.0546,0.598,0.427,5.83e-06,0.21,-8.764,0.0317,0.0605,76.469,95,spotify:track:3eekarcy7kvN4yt5ZFzltW
+24,VIBEZ,DaBaby,144935,1,0,4,0.113,0.768,0.652,0.0,0.107,-2.708,0.307,0.777,154.187,88,spotify:track:0fySG6A6qLE8IvDpayb5bM
+25,Lose You To Love Me,Selena Gomez,206459,4,1,4,0.576,0.505,0.34,0.0,0.21,-9.005,0.0438,0.0916,101.993,96,spotify:track:1HfMVBKM75vxSfsQ5VefZ5
+26,Lucid Dreams,Juice WRLD,239836,6,0,4,0.349,0.511,0.566,0.0,0.34,-7.23,0.2,0.218,83.903,94,spotify:track:285pBltuF7vW8TeWk8hdRR
+27,Woah,Lil Baby,183011,11,1,4,0.0177,0.882,0.602,0.0,0.178,-5.554,0.245,0.43,142.959,87,spotify:track:598yNsG1JFrGd4n2kMoz7F
+28,HIGHEST IN THE ROOM (feat. ROSALÍA & Lil Baby) - REMIX,Travis Scott,244874,2,0,4,0.0276,0.621,0.484,1.11e-06,0.111,-7.033,0.0333,0.159,76.532,85,spotify:track:7h0d2h0fUmzbs7zeFigJPn
+29,bad guy,Billie Eilish,194088,7,1,4,0.328,0.701,0.425,0.13,0.1,-10.965,0.375,0.562,135.128,96,spotify:track:2Fxmhks0bxGSBdJ92vM42m
+30,"Writing on the Wall (feat. Post Malone, Cardi B & Rvssian)",French Montana,201271,9,0,4,0.288,0.774,0.836,2.44e-05,0.0824,-2.323,0.152,0.494,112.014,77,spotify:track:7ntUbTIwmwOD6ygCMRZT6e
+31,Suge,DaBaby,163320,2,0,4,0.0608,0.876,0.662,0.0,0.127,-6.482,0.426,0.844,75.445,87,spotify:track:2gwkD6igEhQbDQegRCcdoB
+32,Robbery,Juice WRLD,240051,2,1,5,0.328,0.685,0.692,0.0,0.153,-5.122,0.0457,0.578,159.966,90,spotify:track:6Hj9jySrnFppAI0sEMCZpJ
+33,Ransom,Lil Tecca,131240,7,0,4,0.0204,0.745,0.642,0.0,0.0658,-6.257,0.287,0.226,179.974,91,spotify:track:1lOe9qE0vR9zwWQAOk6CoO
+34,"10,000 Hours (with Justin Bieber)",Dan + Shay,167693,10,1,4,0.153,0.654,0.63,0.0,0.111,-4.644,0.0259,0.43,89.991,92,spotify:track:2wrJq5XKLnmhRXHIAf9xBa
+35,Truth Hurts,Lizzo,173325,4,0,4,0.11,0.715,0.624,0.0,0.123,-3.046,0.114,0.412,158.087,89,spotify:track:5qmq61DAAOUaW8AUo8xKhh
+36,Falling,Harry Styles,240133,4,1,4,0.839,0.567,0.267,1.46e-06,0.089,-6.502,0.0299,0.0592,110.011,89,spotify:track:1ZMiCix7XSAbfAJlEZWMCp
+37,223's (feat. 9lokknine),YNW Melly,176640,0,0,4,0.0388,0.932,0.547,0.0,0.0924,-7.787,0.333,0.695,94.998,75,spotify:track:29ZXwWOOLz9t5fa3eT3i7T
+38,Hot (Remix) [feat. Gunna and Travis Scott],Young Thug,279907,7,0,4,0.188,0.845,0.631,0.0,0.0806,-8.206,0.216,0.545,111.983,70,spotify:track:4ea9w8c4ROqiZpJVhfBA3m
+39,Señorita,Shawn Mendes,190800,9,0,4,0.0392,0.759,0.548,0.0,0.0828,-6.049,0.029,0.749,116.967,89,spotify:track:6v3KW9xbzN5yKLt9YKDYA2
+40,Goodbyes (Feat. Young Thug),Post Malone,174960,5,1,4,0.447,0.58,0.653,0.0,0.111,-3.818,0.0745,0.175,150.231,58,spotify:track:6vBdBCoOhKHiYDDOcorfNo
+41,Stuck In A Dream (feat. Gunna),Lil Mosey,123560,10,0,4,0.481,0.748,0.648,0.0,0.126,-6.445,0.0816,0.726,139.952,87,spotify:track:7iHHxY2NLlJRAmlAmC4ahQ
+42,Had Enough (feat. Quavo & Offset),Don Toliver,157133,2,1,4,0.249,0.749,0.79,0.0,0.129,-4.577,0.113,0.674,147.952,65,spotify:track:2jrAaawDRCn1JjeouxAyDN
+43,Money In The Grave (Drake ft. Rick Ross),Drake,205427,10,0,4,0.101,0.831,0.502,0.0,0.122,-4.045,0.046,0.101,100.541,89,spotify:track:5ry2OE6R2zPQFDO85XkgRb
+44,Death,Trippie Redd,172196,10,0,4,0.0579,0.802,0.82,0.0,0.149,-5.969,0.146,0.613,164.005,77,spotify:track:3Kd6Wp3lG5HXMB2dlvuy7y
+45,No Guidance (feat. Drake),Chris Brown,260640,1,0,4,0.123,0.698,0.454,0.0,0.155,-6.756,0.151,0.137,92.932,86,spotify:track:6XHVuErjQ4XNm6nDPVCxVX
+46,Wow.,Post Malone,149547,11,0,4,0.136,0.829,0.539,1.78e-06,0.103,-7.359,0.208,0.388,99.96,89,spotify:track:7xQAfvXzm3AkraOtGPWIZg
+47,TOES (feat. Lil Baby & Moneybagg Yo),DaBaby,136366,8,1,4,0.0794,0.816,0.582,5.84e-06,0.0916,-4.141,0.341,0.542,160.004,82,spotify:track:2FvD20Z8aoWIePi7PoN8sG
+48,SUGAR,BROCKHAMPTON,204533,1,1,4,0.449,0.453,0.538,0.0,0.19,-8.212,0.0638,0.516,122.973,82,spotify:track:6U0FIYXCQ3TGrk4tFpLrEA
+49,Yellow Hearts,Ant Saunders,223258,7,1,4,0.177,0.865,0.438,0.0,0.0743,-8.943,0.0719,0.695,129.038,89,spotify:track:2W4yABdLc4Jnds67Poi5Nl
