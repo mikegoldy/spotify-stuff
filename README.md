@@ -1,6 +1,6 @@
 # spotify-stuff
 
-This project first started after I saw Spotify's "Wrapped" 2019 feature. I've always been an Apple Music user but that feature was finally enough to push me to change sides. But one difficult barrier remained: the tedious hassle of moving my apple music library to Spotify. That is until I discovered I could use Spotify's api for free.
+This project first started after I saw Spotify's "Wrapped" 2019 feature. I've always been an Apple Music user but that feature was finally enough to push me to change sides. (Whoever thought of the idea is a genius) But one difficult barrier remained: the tedious hassle of moving my apple music library to Spotify. That is until I discovered I could use Spotify's api for free.
 
 Hence, I created an app that takes my apple music from a csv file and adds all of my music (1522 songs/ 1600 songs) onto Spotify. But once, I did that I got curius...
 
