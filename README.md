@@ -4,7 +4,7 @@ This project first started after I saw Spotify's "Wrapped" 2019 feature. I've al
 
 Hence, I created an app that takes my apple music from a csv file and adds all of my music (1522 songs/ 1600 songs) onto Spotify. But once, I did that I got curius...
 
-I realized that I could do so much more with Spotify's api. See, Spotify provides a set of metrics for each song: danceability, energy, acousticness, loudness, mode, key, instrumentalness, valence, etc. (Refer here for the full list: https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/) As a statistics student, this is when my mind started thinking. I could analyze music, find patterns, and make conclusion, albeit not very solid ones.
+I realized that I could do so much more with Spotify's api. See, Spotify provides a set of metrics for each song: danceability, energy, acousticness, loudness, mode, key, instrumentalness, valence, etc. (Refer here for the full list: https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/) As a statistics student, this is when my mind started thinking. I could analyze music, find patterns, and make statistical claims, albeit not very solid ones.
 
 WHAT I HAVE DONE SO FAR:
 
