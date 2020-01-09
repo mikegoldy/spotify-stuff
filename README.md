@@ -20,4 +20,4 @@ WHAT I'D LIKE TO DO IN THE FUTURE:
 
 1. Encrypt my Spotify api login
 2. Compare the top charts between countries
-3. Whatever I can think of
+3. Make different playlists. For example high energy songs can be a workout playlist etc.
