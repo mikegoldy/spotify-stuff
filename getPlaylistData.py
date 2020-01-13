@@ -17,7 +17,7 @@ valence
 tempo
 popularity
 
-Precondtion: supply program with playlist id by moddifying variable: playlist_id
+Precondtion: supply program with playlist id and user id by moddifying variables: playlist_id and user_id
 """
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
@@ -27,8 +27,9 @@ import pandas as pd
 
 sp = SpotifyCred.spotifyCreds()
 
-playlist_id = '37i9dQZEVXbLRQDuF5jeBp'
-user = sp.current_user()["id"]
+playlist_id = '4YbnWNufZdK8Qr00fcWEDz'
+user = '12156476892'
+#sp.current_user()["id"]
 
 numOfSongs = 0
 
@@ -70,7 +71,11 @@ def main():
         if(i == len(result["items"])):
             break
         song = result["items"][i]["track"]["uri"]
-        features = sp.audio_features(song)
+        try:
+            features = sp.audio_features(song)
+        except:
+            i+=1
+            continue
         fillVariables(song, result, features, i)
         i+=1
     fillCsv()
@@ -107,6 +112,6 @@ def fillCsv():
     columns= ["name", "artist", "duration", "key", "mode", "beats", "acousticness",
     "danceability", "energy", "instrumentalness", "liveness", "loudness", "speechiness",
     "valence", "tempo", "popularity", "URI"])
-    data.to_csv("playlistInfoPopular.csv")
+    data.to_csv("playlistBo.csv")
 
 main()
