@@ -8,10 +8,7 @@ Precondition: Copy Apple music libray (A simply control-C will suffice) and past
 spreadsheet program. Save as .csv file.
 """
 
-
 import spotipy
-from spotipy.oauth2 import SpotifyClientCredentials
-import spotipy.util as util
 import pandas as pd
 from tkinter import Tk
 from tkinter.filedialog import askopenfilename
@@ -31,7 +28,6 @@ def main():
     Lastly calls missingCsv function.
     Precondition: have Apple music .csv.
     """
-    sp = SpotifyCred.spotifyCreds()
     print("After logging into spotify, you will be redirected unto a non-existant website. Copy the url and paste here:")
     print("Type the name of the Spotify Playlist to be created:")
     playlistName = input()
@@ -81,7 +77,8 @@ def searchMusic(music, playlist, user):
             continue
         trackId = result['tracks']['items'][0]['uri']
         id.append(trackId)
-        #sp.user_playlist_add_tracks(user,playlist_id=playlist, tracks=id)
+        sp.user_playlist_add_tracks(user,playlist_id=playlist, tracks=id)
+        id = []
 
 
 def missingTrack(track):
