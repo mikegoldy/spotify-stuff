@@ -8,8 +8,10 @@ I realized that I could do so much more with Spotify's api. See, Spotify provide
 
 WHAT I HAVE DONE SO FAR:
 
-1. Created an app that can move one's apple music library unto spotify using python and the library spotipy. And, made a set of instructions to use the app.
-2. Created a script that takes the music of a playlist and compiles a list of songs with its' audio features onto a csv.
+1. Created an app that can move one's apple music library unto spotify using python and the library spotipy. And, made a set of instructions to use the app. - See createSpotifyLibraryFromCsv.py
+2. Created a script that takes the music of a playlist and compiles a list of songs with its' audio features onto a csv. -See getPlaylistData.py
+3. Analyzed my music library, found some interesting insights about my music and some friends (Bo, and hopefully more soon)   -See SpotifyLibraryDataAnalysis.ipynb and BoLibraryDataAnalysis.ipynb
+4. Make different playlists. For example high energy songs can be a workout playlist etc. See- playlistCreation.ipynb
 
 WHAT I AM WORKING ON NOW:
 
@@ -20,4 +22,5 @@ WHAT I'D LIKE TO DO IN THE FUTURE:
 
 1. Encrypt my Spotify api login
 2. Compare the top charts between countries
-3. Make different playlists. For example high energy songs can be a workout playlist etc.
+3. Create data clusters of a library and, if possible, optimize the shuffle feature in that library to play a cluster of music that matches the user's mood at that given moment. (This is more conceptual I don't I can control spotify's shuffle)
+
