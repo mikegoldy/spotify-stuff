@@ -22,5 +22,6 @@ WHAT I'D LIKE TO DO IN THE FUTURE:
 
 1. Encrypt my Spotify api login
 2. Compare the top charts between countries
-3. Create data clusters of a library and, if possible, optimize the shuffle feature in that library to play a cluster of music that matches the user's mood at that given moment. (This is more conceptual I don't I can control spotify's shuffle)
+3. Compare different genres
+4. Create data clusters of a library and, if possible, optimize the shuffle feature in that library to play a cluster of music that matches the user's mood at that given moment. (This is more conceptual I don't I can control spotify's shuffle)
 
