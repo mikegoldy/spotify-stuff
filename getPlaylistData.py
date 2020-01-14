@@ -27,9 +27,8 @@ import pandas as pd
 
 sp = SpotifyCred.spotifyCreds()
 
-playlist_id = '4YbnWNufZdK8Qr00fcWEDz'
-user = '12156476892'
-#sp.current_user()["id"]
+playlist_id = '3Wp8MOROoeQ6gBU4QEyMqT'
+user = sp.current_user()["id"]
 
 numOfSongs = 0
 
@@ -112,6 +111,6 @@ def fillCsv():
     columns= ["name", "artist", "duration", "key", "mode", "beats", "acousticness",
     "danceability", "energy", "instrumentalness", "liveness", "loudness", "speechiness",
     "valence", "tempo", "popularity", "URI"])
-    data.to_csv("playlistBo.csv")
+    data.to_csv("playlistInfo.csv")
 
 main()
