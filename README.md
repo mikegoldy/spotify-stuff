@@ -8,10 +8,10 @@ I realized that I could do so much more with Spotify's api. See, Spotify provide
 
 WHAT I HAVE DONE SO FAR:
 
-1. Created an app that can move one's apple music library unto spotify using python and the library spotipy. And, made a set of instructions to use the app. - See createSpotifyLibraryFromCsv.py
-2. Created a script that takes the music of a playlist and compiles a list of songs with its' audio features onto a csv. -See getPlaylistData.py
-3. Analyzed my music library, found some interesting insights about my music and some friends (Bo, and hopefully more soon)   -See SpotifyLibraryDataAnalysis.ipynb and BoLibraryDataAnalysis.ipynb
-4. Make different playlists. For example high energy songs can be a workout playlist etc. See- playlistCreation.ipynb
+1. Created an app that can move one's apple music library unto spotify using python and the library spotipy. And, made a set of instructions to use the app. -See: createSpotifyLibraryFromCsv.py
+2. Created a script that takes the music of a playlist and compiles a list of songs with its' audio features onto a csv. -See: getPlaylistData.py
+3. Analyzed my music library, found some interesting insights about my music and some friends (Bo, and hopefully more soon)   -See: SpotifyLibraryDataAnalysis.ipynb and BoLibraryDataAnalysis.ipynb
+4. Make different playlists. For example high energy songs can be a workout playlist etc. -See: playlistCreation.ipynb
 
 WHAT I AM WORKING ON NOW:
 
