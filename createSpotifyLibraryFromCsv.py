@@ -132,7 +132,7 @@ def missingArtist(artist):
 def missingCsv(missingtrack, missingartist):
     "Creates csv of missing songs."
     missing = pd.DataFrame(list(zip(missingtrack, missingartist)), columns=["Track", "Artist"])
-    missing.to_csv("missingSongs.csv")
+    missing.to_csv("missingSongs2.csv")
 
 def readCsv(filepath):
     "Reads Apple music csv"

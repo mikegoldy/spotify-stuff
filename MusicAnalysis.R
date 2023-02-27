@@ -36,6 +36,11 @@ spotify_data$key[spotify_data$key == 11] <- "B"
 
 #What makes music positive?
 
+#are keys significantly correlated to valence?
+
+model12 <- lm(valence ~ factor(key), data=spotify_data)
+summary(model12)
+
 #is popularity & valence correlated?
 model6 <- lm(valence ~ popularity, data=spotify_data)
 summary(model6)
@@ -43,7 +48,7 @@ summary(model6)
 model7 <- lm(valence ~ loudness, data=spotify_data)
 summary(model7)
 
-#is key and valence correlated?
+#All together
 model8 <- lm(valence ~ factor(key) + instrumentalness + energy + danceability +  popularity + loudness, data=spotify_data)
 summary(model8)
 #does danceability & energy affect valence?
